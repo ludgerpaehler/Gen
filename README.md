@@ -1,6 +1,6 @@
 # Gen
 
-[![Build Status](https://travis-ci.org/probcomp/Gen.svg?branch=master)](https://travis-ci.org/probcomp/Gen)
+[![Build Status](https://travis-ci.com/ludgerpaehler/Gen.svg?branch=master)
 [![](https://img.shields.io/badge/docs-stable-blue.svg)](https://probcomp.github.io/Gen/stable)
 [![](https://img.shields.io/badge/docs-dev-blue.svg)](https://probcomp.github.io/Gen/dev)
 
