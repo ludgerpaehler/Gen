@@ -4,7 +4,7 @@
 language: julia
 julia:
   - 1.3
- codecov: true
+codecov: true
 
 jobs:
   include:
@@ -12,3 +12,4 @@ jobs:
       script:
         - julia -e 'using Pkg; Pkg.build(); Pkg.test("Gen", coverage=true)'
       after_success: skip
+      
