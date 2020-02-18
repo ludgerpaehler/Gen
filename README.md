@@ -2,8 +2,7 @@
 
 [![Build Status](https://travis-ci.com/ludgerpaehler/Gen.svg?branch=master)](https://travis-ci.com/ludgerpaehler/Gen)
 [![codecov](https://codecov.io/gh/ludgerpaehler/Gen/branch/master/graph/badge.svg)](https://codecov.io/gh/ludgerpaehler/Gen)
-[![](https://img.shields.io/badge/docs-stable-blue.svg)](https://probcomp.github.io/Gen/stable)
-[![](https://img.shields.io/badge/docs-dev-blue.svg)](https://probcomp.github.io/Gen/dev)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Gen: A General-Purpose Probabilistic Programming System with Programmable Inference
 
