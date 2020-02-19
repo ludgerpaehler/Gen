@@ -98,7 +98,7 @@ function splice(
     retval
 end
 
-function accumulate_param_gradients!(trace::DynamicDSLTrace, retval_grad, scale_factor=1.)
+function accumulate_param_gradients!(trace::DynamicDSLTrace, retval_grad, scaler=1.)
     gen_fn = trace.gen_fn
 
     fn = (args, param_store) -> begin
